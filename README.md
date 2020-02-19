@@ -26,6 +26,8 @@ The C Sharp Grade Book Application is a designed to allow instructors to create 
 
 # Setup the Application
 
+TEST
+
 ## If you want to use Visual Studio
 
 If you want to use Visual Studio (highly recommended) follow these steps:
